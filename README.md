@@ -19,6 +19,6 @@ This allows one to request reduced versions of the data.
 # Catalog of Extensions
 
 | Identifier   |  Title  | Curator | Description |
-|----------|:-------------:|------:|---:|
+|----------|:-------------|:------|:---|
 | x_colorLookup | identifies colors for string data | Jeremy Faden | https://github.com/hapi-server/extensions/issues/2 |
 | x_customRequestOptions | simple parameters for server | Sandy Antunes | https://github.com/hapi-server/extensions/issues/1 |
