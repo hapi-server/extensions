@@ -24,4 +24,5 @@ This allows one to request reduced versions of the data.
 | x_customRequestOptions | simple parameters for server | Sandy Antunes | https://github.com/hapi-server/extensions/issues/1 |
 | x_relations | identifies courser resolutions of the data | Eelco Doornbos |  |
 | x_latitude, x_longitude | identifies the Earth surface location of the station where data is read | BGS |
+| write | Ability of server to accept data through API | Jeremy Faden | |
 
