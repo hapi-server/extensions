@@ -4,7 +4,7 @@ a server response x_plot might be a URL that generates a plot of the data.  This
 HAPI specification, but this is allowed since it starts with x_.  
 
 This repository is intended to allow groups to share extensions they have made.  It's likely multiple groups
-will have similar goals, and this ticket may allow them to share ideas and so things in a similar way.  Here we 
+will have similar goals, and this ticket may allow them to share ideas and so things done in a similar way.  Here we 
 try to describe first how one documents an extension, so that clients or servers might use
 it, and second, descriptions of extensions themselves.
 
@@ -16,6 +16,10 @@ How does one know when data can be requested?
 
 ## Data Reduction
 This allows one to request reduced versions of the data.
+
+## Location
+Server IDs can be associated with a latitude and longitude.  This example extension shows where 
+the functionality became part of the standard in 3.3.
 
 # Catalog of Extensions
 
