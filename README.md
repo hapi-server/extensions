@@ -1,4 +1,4 @@
-# extensions
+# extensions provide custom functionality
 The HAPI server has always supported extensions that can be safely ignored.  For example, in 
 a server response x_plot might be a URL that generates a plot of the data.  This is not part of the
 HAPI specification, but this is allowed since it starts with x_.  
