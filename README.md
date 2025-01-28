@@ -1,11 +1,11 @@
 # extensions provide custom functionality
-The HAPI server has always supported extensions that can be safely ignored.  For example, in 
-a server response x_plot might be a URL that generates a plot of the data.  This is not part of the
+The HAPI server has always supported extensions that can be safely ignored.  For example, a server might have a 
+response that generates a plot of the data, and https://server/hapi/x_plot might be a URL that generates a plot of the data.  This is not part of the
 HAPI specification, but this is allowed since it starts with x_.  
 
-This repository is intended to allow groups to share extensions they have made.  It's likely multiple groups
-will have similar goals, and this ticket may allow them to share ideas and so things done in a similar way.  Here we 
-try to describe first how one documents an extension, so that clients or servers might use
+This repository is intended to allow groups to share extensions they have made.  It's likely groups
+will have similar goals, and this ticket allows them to share ideas and so things done in a similar way.  Here we 
+try to describe how one documents an extension, so that clients or servers might use
 it, and second, descriptions of extensions themselves.
 
 See tickets for discussions of new extentions.  Mature extensions should be described using documents linked to from here.
