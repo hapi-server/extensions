@@ -25,4 +25,4 @@ This allows one to request reduced versions of the data.
 | x_relations | identifies courser resolutions of the data | Eelco Doornbos | https://github.com/hapi-server/extensions/issues/3 |
 | x_latitude, x_longitude | identifies the Earth surface location of the station where data is read |  | https://github.com/hapi-server/extensions/issues/4 |
 | write | Ability of server to accept data through API | Jeremy Faden | |
-
+| x_label | Identify a short axis label for data | Bob Weigel, Jeremy Faden | https://github.com/hapi-server/extensions/issues/7 |
